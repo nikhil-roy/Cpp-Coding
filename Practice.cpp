@@ -7,5 +7,6 @@ int main(){
 	cout<<"Enter second digit:"<<endl;
 	cin>>b;
 	cout<<"Sum = "<<(a+b)<<endl;
+	cout<<"Done!";
 	return 0;
 }
